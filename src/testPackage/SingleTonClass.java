@@ -38,6 +38,7 @@ package testPackage;
 	    	SingleTonModified stc = SingleTonModified.CreateObj();
 	    	SingleTonModified stc1 = SingleTonModified.CreateObj();
 	    	SingleTonModified stc2 = SingleTonModified.CreateObj();
+	    	//just to check git
 	        // stc.display();
 	        // stc1.display1();
 	        System.out.println("Hashcode of x is "
